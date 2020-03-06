@@ -1,9 +1,12 @@
 # Backend for Test Frontend Project
 This is the Node JS backend service for the test frontend project.
 
-## Installation
+## Installation Instructions
 To install the backend, Node and NPM is required.
-1. Clone this repository `git clone `
+1. Clone this repository using: `git clone https://github.com/olayinkaokewale/test-backend-project.git`
+2. Run `cd test-backend-project` to change directory into the just clonned project.
+3. Run `npm install` to get the neccessary packages
+4. Run `npm run start` to startup the server.
 
 ## Get All Countries
 This endpoint lists all the countries available on restcountries.eu API.
