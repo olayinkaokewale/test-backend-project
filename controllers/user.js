@@ -6,7 +6,10 @@ const md5 = require('md5');
 class UserController {
 
     static home = (req, res) => {
-        return res.status(200).json(req.userData);
+        return res.status(200).json({
+            status:200,
+            data: req.userData
+        });
     }
 
     // Method to validate user input from registration point.
