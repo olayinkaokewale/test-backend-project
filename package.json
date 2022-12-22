@@ -18,7 +18,7 @@
     "elkorm": "github:olayinkaokewale/elkorm",
     "express": "^4.17.1",
     "express-validator": "^6.4.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "marked": "^0.8.0",
     "md5": "^2.2.1",
     "node-fetch": "^2.6.0"
